@@ -1,0 +1,7 @@
+{
+  "name": "Ionic Recipes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
